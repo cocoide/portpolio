@@ -1,9 +1,9 @@
 import { NextPage } from 'next'
 
-const ProductPage: NextPage = () => {
+const CareerPage: NextPage = () => {
     return (
         <>
         </>
     )
 }
-export default ProductPage
+export default CareerPage

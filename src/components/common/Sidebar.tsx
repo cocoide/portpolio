@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Sidebar = () => {
     return (
-        <div className='ml-3 mt-20 flex flex-col space-y-10'>
+        <div className='ml-3  flex flex-col space-y-20 mt-20'>
             <button>
                 <Link href={"/"}>
                     <HomeIcon className="h-8 w-8 text-green-300" />

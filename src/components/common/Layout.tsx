@@ -11,12 +11,12 @@ const Layout = ({ children }: LayoutProps) => {
         <>
             <Header />
             <div className='flex flex-row'>
-                <div className='hidden lg:inline-block'>
+                <div className='hidden md:inline-block'>
                     <Sidebar />
                 </div>
                 {children}
             </div>
-            <div className='lg:hidden fixed bottom-0 inset-x-0'>
+            <div className='md:hidden fixed bottom-0 inset-x-0 z-50'>
                 <FooterNavi />
             </div>
         </>

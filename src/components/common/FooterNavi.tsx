@@ -4,7 +4,7 @@ import { BriefcaseIcon, CubeIcon, DocumentTextIcon, HomeIcon } from '@heroicons/
 const FooterNavi = () => {
     return (
         <>
-            <div className="h-14 bg-white border-t-2">
+            <div className="h-14 bg-white">
 
                 <div className="gap-10 flex flex-row justify-center p-2 content-center">
                     <button>
