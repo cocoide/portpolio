@@ -125,6 +125,37 @@ export default function Home() {
                 </span>
               </div>
             </div>
+
+            {/* Project 4 */}
+            <div>
+              <h3 className="font-medium text-gray-900">クラウドRPA基盤</h3>
+              <p className="text-sm text-gray-500 mt-1">テックリード</p>
+              <p className="text-sm text-gray-700 mt-2 leading-relaxed">
+                クラウド上でRPAを実行するための基盤開発。
+              </p>
+              <div className="flex gap-2 mt-3 flex-wrap">
+                <span className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded">
+                  GCP
+                </span>
+              </div>
+            </div>
+
+            {/* Project 5 */}
+            <div>
+              <h3 className="font-medium text-gray-900">ATS管理自動化SaaS</h3>
+              <p className="text-sm text-gray-500 mt-1">テックリード</p>
+              <p className="text-sm text-gray-700 mt-2 leading-relaxed">
+                採用管理システム（ATS）の運用を自動化するSaaSの基盤開発。
+              </p>
+              <div className="flex gap-2 mt-3 flex-wrap">
+                <span className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded">
+                  TypeScript
+                </span>
+                <span className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded">
+                  GCP
+                </span>
+              </div>
+            </div>
           </div>
         </section>
 
