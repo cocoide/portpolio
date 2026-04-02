@@ -175,7 +175,7 @@ export default function Home() {
             <div className="flex">
               <span className="w-36 text-gray-500 shrink-0">2026/1 - 3</span>
               <div>
-                <p className="text-gray-900">zokujin株式会社</p>
+                <p className="text-gray-900">株式会社zokujin</p>
               </div>
             </div>
             <div className="flex">
