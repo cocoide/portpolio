@@ -166,13 +166,6 @@ export default function Home() {
           </h2>
           <div className="space-y-4 text-sm">
             <div className="flex">
-              <span className="w-36 text-gray-500 shrink-0">2026/8 -</span>
-              <div>
-                <p className="text-gray-900">アクセンチュア株式会社</p>
-                <p className="text-gray-500">ソリューションエンジニア（予定）</p>
-              </div>
-            </div>
-            <div className="flex">
               <span className="w-36 text-gray-500 shrink-0">2026/1 - 3</span>
               <div>
                 <p className="text-gray-900">株式会社zokujin</p>
